@@ -16,5 +16,5 @@ There are three packages in this project. The game and the audio engine are inde
 ## Notes
 Please, be aware that the game won't work well if there's some noise in your room or your microphone generates a disturbed input. The game doesn't implement any form of noise reduction, for that reason it's very sensible to the environment around you and the microphone you're using.
 
-### Credits
+## Credits
 The frequency detector was part of a [Guitar Tuner application](http://www.psychicorigami.com/2009/01/17/a-5k-java-guitar-tuner/).
