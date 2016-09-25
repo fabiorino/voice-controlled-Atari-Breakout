@@ -2,9 +2,6 @@ package audioengine;
 
 import javax.sound.sampled.*;
 
-/*
-Originally, part the code was used to build a guitar tuner: http://www.psychicorigami.com/2009/01/17/a-5k-java-guitar-tuner/
-*/
 public class AudioEngine {
 
     AudioFormat format;
