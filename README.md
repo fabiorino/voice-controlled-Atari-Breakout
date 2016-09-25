@@ -4,7 +4,7 @@ Move the paddle with your voice just by using two different sounds: a sound will
 #### YouTube video:
 [![ScreenShot](http://i.imgur.com/3Ksirj9.png)](https://www.youtube.com/watch?v=AeUyKfJJpM0)
 
-# Source Code
+## Source Code
 ### Overview
 There are three packages in this project. The game and the audio engine are independent of each other. The main package is the "link" between them.
 
