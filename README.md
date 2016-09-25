@@ -13,5 +13,5 @@ There are three packages in this project. The game and the audio engine are inde
 - **breakout**: contains the Atari Breakout game. You could take this package and use it as a standalone game with simple code modifications.
 - **audioengine**: contains the function that allows to get the current frequency of the sound from the microphone.
 
-### Notes
+## Notes
 Please, be aware that the game won't work well if there's some noise in your room or your microphone generates a disturbed input. The game doesn't implement any form of noise reduction, for that reason it's very sensible to the environment around you and the microphone you're using.
