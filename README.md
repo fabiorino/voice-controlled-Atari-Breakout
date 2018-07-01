@@ -1,5 +1,5 @@
 # Voice controlled Atari Breakout
-Move the paddle with your voice just by using two different sounds: a sound will make it go right, the other one will make it go left.
+Move the paddle with your voice just by using two different sounds: a low frequency sound moves the paddle to the left, a high frequency sound moves it to the right.
 
 #### YouTube video:
 [![ScreenShot](http://i.imgur.com/3Ksirj9.png)](https://www.youtube.com/watch?v=AeUyKfJJpM0)
